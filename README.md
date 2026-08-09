@@ -27,7 +27,7 @@
 
 ### Outlook Manager: Local Data Export Tool
 > **A lightweight tool designed to download and store emails/attachments locally, reducing reliance on cloud storage.**
-* **Tech Stack:** [Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+* **Tech Stack:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 * **Key Feature:** Enables local export and management of Outlook emails, offering a local repository for message data.
 * **Outcome:** Addresses the need for local data sovereignty by managing email copies outside of proprietary server storage.
 * **Note:** This is an experimental project focusing on local data control; lacks extensive testing due to scope limitations.

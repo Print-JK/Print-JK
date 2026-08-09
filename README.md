@@ -2,10 +2,8 @@
 
 **About me**
 
-- 🎓️ Cybersecurity Student at Asia Pacific University Malaysia (CGPA: 3.8)
-- ❤️ Focused on building practical skills in Linux administration, networking (CCNA), and Python automation.
-- 🛠️ Proven ability to automate data processing and utilize digital forensics tools (IoC identification).
-- 🚀 Actively seeking an internship from January 2027 to April 2027 (14 Weeks).
+- 🎓️ Cybersecurity Student at Asia Pacific University Malaysia
+- ❤️ Focused on building practical projects that applies gained security knowledge.
 
 <br />
 
@@ -24,3 +22,21 @@
 * **Tech Stack:** ![JavaScript](https://img.shields.io/badge/javascript-007ACC?style=flat-square&logo=javascript&logoColor=white) ![PDF-Lib](https://img.shields.io/badge/PDF-Lib-FFC107?style=flat-square&logo=pdf&logoColor=black) ![Tesseract.js](https://img.shields.io/badge/tesseract.js-316192?style=flat-square&logo=pdf&logoColor=white)
 * **Key Feature:** Integrated libraries for PDF editing, OCR, format conversion, and ZIP encryption entirely client-side with a modular architecture.
 * **Outcome:** Demonstrated proficiency in modern front-end security concepts and browser API utilization.
+
+---
+
+### Outlook Manager: Local Data Export Tool
+> **A lightweight tool designed to download and store emails/attachments locally, reducing reliance on cloud storage.**
+* **Tech Stack:** [Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+* **Key Feature:** Enables local export and management of Outlook emails, offering a local repository for message data.
+* **Outcome:** Addresses the need for local data sovereignty by managing email copies outside of proprietary server storage.
+* **Note:** This is an experimental project focusing on local data control; lacks extensive testing due to scope limitations.
+
+---
+
+### Eveluatieon: Client-Side Web Posture Evaluator
+> **A Firefox extension that translates complex web security findings into actionable, user-friendly explanations.**
+* **Tech Stack:** ![JavaScript](https://img.shields.io/badge/javascript-007ACC?style=flat-square&logo=javascript&logoColor=white)
+* **Key Feature:** Implements client-side analysis for HTTPS, Form, Script, and Link scanning, presenting results with clear risk explanations.
+* **Outcome:** Bridges the gap between raw security findings and user understanding, focusing on immediate client-side posture assessment.
+* **Future Scope:** Planned to expand to inspect server-side headers (CSP, HSTS) in future releases using advanced browser APIs.

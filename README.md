@@ -1,5 +1,3 @@
-# Kwek Jun King | Cybersecurity & Automation
-
 **About me**
 
 - 🎓️ Cybersecurity Student at Asia Pacific University Malaysia

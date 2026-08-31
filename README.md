@@ -1,3 +1,14 @@
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-gold.svg">
+  <img alt="Print-JK" src="assets/wordmark-beige.svg" width="480">
+</picture>
+</div>
+
+<img alt="ticker" src="assets/ticker.svg" width="100%">
+<img alt="terminal boot sequence" src="assets/fastfetch.gif" width="100%">
+
+
 **About me**
 
 - 🎓️ Cybersecurity Student at Asia Pacific University Malaysia

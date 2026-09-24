@@ -34,12 +34,11 @@
 
 ---
 
-### Outlook Manager: Local Data Export Tool
-> **A lightweight tool designed to download and store emails/attachments locally, reducing reliance on cloud storage.**
-* **Tech Stack:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-* **Key Feature:** Enables local export and management of Outlook emails, offering a local repository for message data.
-* **Outcome:** Addresses the need for local data sovereignty by managing email copies outside of proprietary server storage.
-* **Note:** This is an experimental project focusing on local data control; lacks extensive testing due to scope limitations.
+### FortiFi — Financial Claim Verification
+> ** Co-Developed a multi-model financial claim verification system that combines AI analysis, portfolio risk assessment, on-chain options protection, and tamper-evident records.**
+* **Tech STack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
+**Key Feature:** Cross-verified financial claims and articles using multiple AI models, external evidence, and consensus scoring to identify potentially misleading financial information. Connected ETH exposure analysis with live protection strategies through the Thetanuts options infrastructure, allowing users to evaluate potential downside scenarios and available hedging options.Anchored analysis and protection records on Sui to provide tamper-evident, independently verifiable records of FortiFi's assessments and on-chain protection events.
+**Outcome:** Demonstrated the integration of decentralized AI, blockchain-based financial infrastructure, and deterministic risk analysis into a unified financial information protection workflow.
 
 ---
 

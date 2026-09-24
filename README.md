@@ -39,6 +39,7 @@
 * **Tech STack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
 
 **Key Feature:** Cross-verified financial claims and articles using multiple AI models, external evidence, and consensus scoring to identify potentially misleading financial information. Connected ETH exposure analysis with live protection strategies through the Thetanuts options infrastructure, allowing users to evaluate potential downside scenarios and available hedging options.Anchored analysis and protection records on Sui to provide tamper-evident, independently verifiable records of FortiFi's assessments and on-chain protection events.
+
 **Outcome:** Demonstrated the integration of decentralized AI, blockchain-based financial infrastructure, and deterministic risk analysis into a unified financial information protection workflow.
 
 ---
